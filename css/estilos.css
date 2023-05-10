@@ -1,2 +1,11 @@
-body {background-color: pink}
+body {background: pink url(../imagenes/fondo.jpg) no-repeat 50% 15%;
+
+}
 h1 {color: red}
+header {background-color: white;
+margin-bottom: auto; padding: 15px;
+border:2px solid;}
+nav {background-color:white;}
+aside {background-color: white}
+a {background-color: white}
+footer {background-color: red}
